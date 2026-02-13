@@ -6,7 +6,7 @@ I love bridging on-prem systems with the cloud, experimenting with networks, and
 
 ---
 
-### 🛠️ Tools & Tech
+### 🛠️ Tools I Tinker With
 
 * ☁️ Azure, AWS, Proxmox, VMware
 * 🖥️ Active Directory, Entra ID, pfSense, VLANs
@@ -18,7 +18,7 @@ I love bridging on-prem systems with the cloud, experimenting with networks, and
 Here’s my little playground for experiments and labs:
 * 🖥️ Dell R720
 * ⚡ CPU: Dual Xeon E5-2650v2 (20C, 40T)
-* 💾 RAM: 2256GB DDR3 ECC
+* 💾 RAM: 256GB DDR3 ECC
 * 📦 Storage: 1 × 1TB SSD + 1 × 500GB SSD
 * 🌐 Networking: 2 x 2.5G NICs
 * 🔧 Extras: iDRAC for remote management
