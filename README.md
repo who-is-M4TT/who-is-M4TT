@@ -1,27 +1,25 @@
-# Hey there 👋
+### Hey there 👋
 
-I'm **Thit Lwin (Matt) Oo**, a **Cloud & IT Support Technician** based in Toronto.
+I'm **Thit Lwin Oo (Matt)**, a **Cloud & IT Support Technician** based in Toronto.
 
-I specialize in **Hybrid Identity and Zero Trust architecture**, bridging on-premises infrastructure with modern cloud environments. 
-
-This is where I document my technical labs and infrastructure experiments, from segmented networks to Azure integrations.
+I love bridging on-prem systems with the cloud, experimenting with networks, and figuring out how things really work.
 
 ---
 
-## Tools & Tech
+### 🛠️ Tools & Tech
 
-* **Cloud & Virtualization:** Azure, AWS, Proxmox, VMware
-* **Systems & Networking:** Active Directory, Entra ID, pfSense, VLANs
-* **Security & Automation:** PowerShell, Python, RBAC, Firewalls
+* Azure, AWS, Proxmox, VMware
+* Active Directory, Entra ID, pfSense, VLANs
+* PowerShell, Python, RBAC, Firewalls
 
 ---
 
-## A Bit About Me
+### ⚡ Fun Facts About Me
+* 🎓 Wrapped up my Honours Diploma at Seneca Polytechnic
+* 🛡️ Certified: CompTIA A+, Network+, Security+
+* 💻 I love building things that just work… safely
+* ✍️ I document the “why” and “how” behind every fix
 
-* 🎓 Finishing my Honours Diploma at **Seneca Polytechnic**
-* 🛡️ CompTIA **A+, Network+, and Security+** certified
-* 💻 Passionate about building secure, scalable systems
-* ⚡ I love documenting the "how and why" behind complex network fixes## Hi there 👋
 
 <!--
 **who-is-M4TT/who-is-M4TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
